@@ -77,6 +77,7 @@ Programa para que Osito reconozca las frutas
 Usamos una make-makey para que el usuario encuentre las correspondencias. Un sencillo programa tiene las respuestas correctas. Cada una de las preguntas/respuestas están conectadas a makey-makey y el usuario conectado a tierra tiene que tocar las parejas
 
 ![](../imagenes/Proyecto3b.jpg)
+
 ![](../imagenes/Proyecto3.jpg)
 
 ![](../imagenes/Quizz-blocks.png)
@@ -84,9 +85,10 @@ Usamos una make-makey para que el usuario encuentre las correspondencias. Un sen
 [Proyecto](https://scratch.mit.edu/projects/341130424/)
 ## Semáforo sonoro
 
-Conectamos un sensor de sonido (un micrófoco premplificado) a la entrada IN de la echidna que utiliza el pin analógico A4. En función del valor leído encendemos los leds Verde, Amarillo o Rojo
+Conectamos un sensor de sonido (un micrófono premplificado) a la entrada IN de la echidna que utiliza el pin analógico A4. En función del valor leído encendemos los leds Verde, Amarillo o Rojo
 
 ![](../imagenes/Proyecto4b.jpg)
+
 ![](../imagenes/Proyecto4.jpg)
 
 ![](../imagenes/NivelSonoro.png)
@@ -95,9 +97,11 @@ Conectamos un sensor de sonido (un micrófoco premplificado) a la entrada IN de 
 
 ## Medida de humedad del suelo y sistema de riego
 
-Vamos a medir la humedad del suelo para crear un sistema automático de riego
+Vamos a medir la humedad del suelo para crear un sistema automático de riego:
+
 * Conectamos un sensor de humedad de suelo a la entrada IN de echidna (A4)
-* Conectamos un servomotor para simular a la válvula/grifo que enciende el riego. Alternativamente podemos usarlo para mover un cartel/indicador que nos diga que la planta tiene sed
+* Conectamos un servomotor para simular a la válvula/grifo que enciende el riego. 
+* Alternativamente podemos usarlo para mover un cartel/indicador que nos diga que la planta tiene sed
 
 ![riego](../imagenes/Riego.png)
 
@@ -108,13 +112,10 @@ En función del nivel de humedad enviamos 3 mensajes distintos: Húmedo, Seco y 
 Se han creado varios fondos y varios personajes que cambian al recibir los mensajes
 
 ![](../imagenes/SensorHumedadFondo.png)
+
 ![](../imagenes/SensorHumedadObjetos.png)
 
-
-
-
 [Proyecto](https://planet.mblock.cc/project/103662)
-
 
 ## Trabajando con formas
 
@@ -129,6 +130,7 @@ Usamos una placa Makey-makey para reproducir distintos sonidos
 ![](../imagenes/bateria.png)
 
 ![](../imagenes/Notas.png)
+
 ![](../imagenes/instrumento.png)
 
 ![](../imagenes/bateria.jpg)
